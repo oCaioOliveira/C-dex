@@ -15,3 +15,9 @@ https://www.techworld-with-nana.com/devops-bootcamp?utm_source=youtube.com&utm_m
 ```
 https://mcusercontent.com/fb53aa76bbc82533008812f2f/files/2462c6ee-dad1-6b5b-7fdf-907f579b2813/DevOps_Roadmap_by_TWN.01.pdf
 ```
+
+- Book about data skills in open source tools to extract meaning from large complex biological datasets:
+
+```
+https://github.com/Kur1sutaru/bioinformatics-data-skills/blob/main/book-bioinformatics-data-skills.pdf
+```
