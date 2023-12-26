@@ -21,3 +21,10 @@ https://mcusercontent.com/fb53aa76bbc82533008812f2f/files/2462c6ee-dad1-6b5b-7fd
 ```
 https://github.com/Kur1sutaru/bioinformatics-data-skills/blob/main/book-bioinformatics-data-skills.pdf
 ```
+
+## Version History
+
+Name | Description | Version | Date |
+---- | ----------- | ------- | ---- |
+Caio | Create References | 1.0.0 | 25/12/2023 |
+Caio | Fix wrong words | 1.0.1 | 26/12/2023 |
