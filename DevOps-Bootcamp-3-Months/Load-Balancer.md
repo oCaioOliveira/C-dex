@@ -28,8 +28,17 @@ The URL Map provide a mechanism to route incoming requests to the appropriate ba
 
 Health Checks periodically assess the health and status of the instances to which traffic is being directed. If an instance fails a health check, the load balancer intelligently redirects traffic away from that unhealthy instance, preventing it from receiving requests until it is deemed heathy again.
 
+### Next Steps
+
+To better understand how to configure and how work load balancer in Google Cloud. It's recommended that do this lab:
+
+```
+https://www.cloudskillsboost.google/course_sessions/7314683/labs/408389?locale=en
+``` 
+
 ## Version History
 
 Name | Description | Version | Date |
 ---- | ----------- | ------- | ---- |
 Caio | Create Load Balancer Guide | 1.0.0 | 13/01/2024 |
+Caio | Addition of link to load balancer lab | 1.0.1 | 13/01/2024 |
